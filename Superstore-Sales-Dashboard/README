@@ -1,0 +1,31 @@
+# 📊 Superstore Sales Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes Superstore sales performance to identify trends, profitability patterns, and growth opportunities.
+
+## Dataset
+
+The Superstore dataset contains 21 columns, with the following relevant columns used for analysis:
+
+- Ship Mode
+- Segment
+- Region
+- Category
+- Sub-Category
+- Sales
+- Profit
+
+## Key Insights
+
+- Total sales are approximately $2.3M, while profit is approximately $286K.
+- Technology products generate the highest sales and profit.
+- West and East regions perform better than South and Central.
+- Sales increase toward the end of the year, indicating seasonal trends.
+- Phones and Chairs are among the top-selling sub-categories.
+- Standard shipping is the most frequently used shipping method.
+- The Consumer segment contributes the highest sales, while Corporate and Home Office show opportunities for growth.
+
+## Tool Used
+
+- Power BI
