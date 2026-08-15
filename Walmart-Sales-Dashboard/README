@@ -1,0 +1,29 @@
+# 🛒 Walmart Sales Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes Walmart sales data to uncover sales trends, identify profitable product categories, track geographic performance, and understand order and shipping patterns.
+
+## Dataset Columns
+
+- Order_Date
+- Shipping_Date
+- Email_ID
+- Geography
+- Category
+- Product_Name
+- Sales
+- Quantity
+- Profit
+
+## Key Insights
+
+- Strong seasonal sales spikes are visible during November and December.
+- Accessories and Binders are among the top categories by YTD sales.
+- Geographic performance varies across regions in the United States.
+- Bookcases and Machines show lower profit margins despite having reasonable sales volume.
+- Month-wise trends can support inventory planning and forecasting.
+
+## Tool Used
+
+- Power BI
