@@ -1,0 +1,56 @@
+# 🛍️ Myntra Sales Analysis Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes Myntra sales and order data to understand product, brand, category, discount, and geographic performance.
+
+The dashboard provides an interactive view of sales performance across different years, brands, categories, products, sizes, colors, and locations.
+
+## Key Metrics
+
+- Total Products: 40
+- Total Orders: 3,500
+- Average Sale Amount: 538.51
+- Average Discount: 35.51
+
+## Dashboard Features
+
+- Year-wise sales analysis
+- Monthly sales and discount analysis
+- Product distribution
+- Brand distribution
+- Category ranking by sales
+- Order distribution
+- Color distribution
+- Size distribution
+- Weekday sales analysis
+- Sales-wise order distribution
+- City and state-wise order analysis
+
+## Filters
+
+Users can interact with the dashboard using:
+
+- Brands
+- Sub-category
+- Product Name
+- Size
+- Category
+- Year
+
+## Key Insights
+
+- The dashboard compares sales and average discounts across different months.
+- Product and brand distributions help identify popular products and brands.
+- Category ranking provides a comparison of sales performance across categories.
+- Geographic analysis shows the distribution of orders across cities and states.
+- Weekday analysis helps understand sales patterns across different days.
+- Size and color distributions provide additional insights into customer product preferences.
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Analysis
