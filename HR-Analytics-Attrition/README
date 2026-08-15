@@ -1,0 +1,39 @@
+# 👥 HR Analytics – Employee Attrition Prediction
+
+## Project Overview
+
+This project analyzes employee data to identify key factors associated with employee attrition and develops a machine learning model to predict employees who may be at risk of leaving the organization.
+
+## Objectives
+
+- Predict employees who are likely to leave.
+- Identify important factors associated with employee attrition.
+- Provide interpretable insights to support HR decision-making.
+- Create dashboards and visualizations to communicate findings.
+
+## Tools & Technologies
+
+- Python
+- SQL
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SHAP
+
+## Machine Learning Model
+
+- Random Forest Classifier
+
+## Key Insights
+
+- Higher attrition was observed among Sales Representatives and younger, single employees.
+- Overtime, lower income, and limited promotion opportunities were important factors associated with attrition.
+- Female employees showed a higher resignation rate in the analyzed dataset.
+- Sales and R&D departments showed comparatively higher employee turnover.
+
+## Outcome
+
+The project demonstrates how data analysis and machine learning can be used to identify employee attrition patterns and support proactive HR decision-making.
